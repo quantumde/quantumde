@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @quantumde
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Java, C++, Dlang and Python
-- 😃️ i'm partly know Java, C++, Dlang and Python
+- 👀 I’m interested in Ubuntu Touch development
+- 😃️ i'm programmer in C and Python
